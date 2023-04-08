@@ -11,7 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sammy051&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sammy051&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy051&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=Sammy05&theme=vue-dark&hide_border=false)]
+# ⏱️ Wakatime
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=Sammy05&theme=vue-dark&hide_border=false)](https://wakatime.com/@Sammy05)
 
 
 
