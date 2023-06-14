@@ -15,10 +15,12 @@
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=Sammy05&theme=vue-dark&hide_border=false)](https://wakatime.com/@Sammy05)
 (Last Week)
 
+# 🛠️ Projects
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Sammy051&icon=0&color=1)](https://visitcount.itsvg.in)
 
-# 🛠️ Projects
+
 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
