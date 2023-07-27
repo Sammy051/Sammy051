@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy051&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # ⏱️ Wakatime
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=Sammy05&theme=vue-dark&hide_border=false)](https://wakatime.com/@Sammy05)
-(Last Week)
+(Last Week) \
 [![wakatime](https://wakatime.com/badge/user/87dde937-7860-4ec5-8078-62e3c1247efc.svg)](https://wakatime.com/@87dde937-7860-4ec5-8078-62e3c1247efc)
 # 🛠️ Projects
 
