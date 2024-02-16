@@ -18,7 +18,7 @@ Tracked Time
 [![wakatime](https://wakatime.com/badge/user/87dde937-7860-4ec5-8078-62e3c1247efc.svg)](https://wakatime.com/@87dde937-7860-4ec5-8078-62e3c1247efc)
 
 # 🛠️ Projects
-## Localense
+## Localense | [Visit](https://localense.de)
 Localense is a Software designed for small businesses in big towns. It's designed to point small businesses out rather than big company's. It's currently an early access version for Münster. Development in progress.
 
 ## BetterLupo
