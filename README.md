@@ -10,14 +10,20 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sammy051&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sammy051&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy051&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 # ⏱️ Wakatime
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=Sammy05&theme=vue-dark&hide_border=false)](https://wakatime.com/@Sammy05)
-(Last Week) \
+\
 [![wakatime](https://wakatime.com/badge/user/87dde937-7860-4ec5-8078-62e3c1247efc.svg)](https://wakatime.com/@87dde937-7860-4ec5-8078-62e3c1247efc)
-# 🛠️ Projects
 
+# 🛠️ Projects
+## Localense
+Localense is a Software designed for small businesses in big towns. It's designed to point small businesses out rather than big company's. It's currently an early access version for Münster. Development in progress.
+
+## BetterLupo
+Betterlupo is a project funded by the City of Cologne aimed at assisting German students in planning their future school life. The current program is complex and challenging to use. Betterlupo promises to be more user-friendly and accessible. It is currently in the development phase, with a planned release in March 2024.
   <!--### Collection Software -->
+<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=Sammy051&icon=0&color=1)](https://visitcount.itsvg.in)
 
